@@ -32,4 +32,16 @@ Add your API key in AppDelegate.m
 https://www.npmjs.com/package/react-native-config
 
 
+# Android
+
+
+
+![android-screen](https://user-images.githubusercontent.com/32450488/110284337-aa95c300-8007-11eb-9ecc-78d0a264709c.gif)
+
+
+
+# IOS
+
+![ios_screen](https://user-images.githubusercontent.com/32450488/110284403-c6996480-8007-11eb-891c-0c1a48b72520.gif)
+
 
