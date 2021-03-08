@@ -15,6 +15,8 @@ Api fetching by using redux thunk.
 Redux Thunk is middleware that allows you to return functions, rather than just actions, within Redux.
 
 # Add Your API Key
+.env -> Add your API Key
+
 ## Android 
 
 1) Add your api key in manifest.
