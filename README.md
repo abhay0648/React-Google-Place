@@ -36,7 +36,7 @@ https://www.npmjs.com/package/react-native-config
 
 # Build on Apple Mac M1 Processor
 
-## Android Build
+## Android
 
 
 
