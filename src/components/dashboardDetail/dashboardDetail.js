@@ -8,7 +8,6 @@ class DashBoardDetail  extends PureComponent {
   render() {
     const { place} = this.props;
 
-  
           return (
             <>
             <View style={styles.container}>
