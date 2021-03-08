@@ -16,3 +16,11 @@ Redux Thunk is middleware that allows you to return functions, rather than just 
 
 # Add Your API Key
 ## Android 
+
+1) Add your api key in manifest.
+2) Add your api key in Res -> value -> google_map_api.xml
+
+## IOS
+
+Add your API key in AppDelegate.m
+
