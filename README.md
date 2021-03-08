@@ -24,10 +24,12 @@ Redux Thunk is middleware that allows you to return functions, rather than just 
 
 Add your API key in AppDelegate.m
 
-### Don't for to enable Map SDK for Android & IOS in your console.
+### Don't forget to enable Map SDK for Android & IOS in your console.
+
 
 # For Environment - Config variables for React Native apps
 
 https://www.npmjs.com/package/react-native-config
+
 
 
