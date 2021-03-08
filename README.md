@@ -34,7 +34,9 @@ Add your API key in AppDelegate.m
 https://www.npmjs.com/package/react-native-config
 
 
-# Android Build on Mac M1 Processer
+# Build on Apple Mac M1 Processor
+
+## Android Build
 
 
 
@@ -42,7 +44,7 @@ https://www.npmjs.com/package/react-native-config
 
 
 
-# IOS on Mac M1 Processer
+## IOS
 
 ![ios_screen](https://user-images.githubusercontent.com/32450488/110284403-c6996480-8007-11eb-891c-0c1a48b72520.gif)
 
