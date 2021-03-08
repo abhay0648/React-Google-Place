@@ -1,4 +1,4 @@
-# Map Test
+# Map Test - React Native
 
 Application to fetch data from google place API, show list & marker on google map.
 Project build in react native usin redux
@@ -34,7 +34,7 @@ Add your API key in AppDelegate.m
 https://www.npmjs.com/package/react-native-config
 
 
-# Android
+# Android Build on Mac M1 Processer
 
 
 
@@ -42,7 +42,7 @@ https://www.npmjs.com/package/react-native-config
 
 
 
-# IOS
+# IOS on Mac M1 Processer
 
 ![ios_screen](https://user-images.githubusercontent.com/32450488/110284403-c6996480-8007-11eb-891c-0c1a48b72520.gif)
 
